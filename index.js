@@ -46,5 +46,8 @@ app.use(routeNotFoundHandler);
 app.use(globalErrorHandler);
 
 app.listen(process.env.PORT, () => {
+  console.log(process.env.PORT)
+  console.log(process.env.CLIENT_ORIGIN)
+  console.log(process.env.NODE_ENV)
   console.log(`Server started on port ${process.env.PORT}`);
 });

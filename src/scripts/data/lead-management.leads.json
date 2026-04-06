@@ -1,0 +1,5756 @@
+[{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880a8"
+  },
+  "name": "ALEC Engineering and Contracting",
+  "company": "ALEC Engineering and Contracting",
+  "website": "https://alec.ae",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Dubai Marina",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "ALEC Engineering and Contracting",
+      "phone": "+971 4 429 0599",
+      "email": "info@alec.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880a9"
+      }
+    },
+    {
+      "name": "ALEC Engineering and Contracting",
+      "phone": "+971 2 556 7540",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880aa"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "hr@alec.ae",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880ab"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.842Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.842Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880ac"
+  },
+  "name": "Khansaheb Civil Engineering",
+  "company": "Khansaheb Civil Engineering",
+  "website": "https://www.khansaheb.ae",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Al Rashidiya",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Khansaheb Civil Engineering",
+      "phone": "+971 4 605 7200",
+      "email": "info.kce@khansaheb.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880ad"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@khansaheb.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880ae"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.844Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880af"
+  },
+  "name": "Berkeley Services Group",
+  "company": "Berkeley Services Group",
+  "website": "https://www.berkeleyuae.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Al Quoz 3",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Berkeley Services Group",
+      "phone": "+971 4 339 3111",
+      "email": "info@berkeleyuae.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880b0"
+      }
+    },
+    {
+      "name": "Berkeley Services Group",
+      "phone": "+971 2 665 7454",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880b1"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "hr@berkeleyuae.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880b2"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Cleaning"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.844Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880b3"
+  },
+  "name": "Farnek Services LLC",
+  "company": "Farnek Services LLC",
+  "website": "https://www.berkeleyuae.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Al Quoz 3",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Farnek Services LLC",
+      "phone": "+971 4 382 4400",
+      "email": "info@farnek.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880b4"
+      }
+    },
+    {
+      "name": "Farnek Services LLC",
+      "phone": "+971 2 559 5517",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880b5"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@farnek.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880b6"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Cleaning"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.844Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880b7"
+  },
+  "name": "Aramex",
+  "company": "Aramex",
+  "website": "https://www.aramex.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Umm Ramool",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Aramex",
+      "phone": "600 544 000",
+      "email": "support@aramex.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880b8"
+      }
+    },
+    {
+      "name": "Aramex",
+      "phone": "+971 4 544 4444",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880b9"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@aramex.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880ba"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Logistics"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880bb"
+  },
+  "name": "DP World",
+  "company": "DP World",
+  "website": "https://www.dpworld.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Jebel Ali",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "DP World",
+      "phone": "+971 4 881 1111",
+      "email": "info@dpworld.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880bc"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@dpworld.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880bd"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Logistics"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880be"
+  },
+  "name": "Magnum Security",
+  "company": "Magnum Security",
+  "website": "https://magnumsecurity.ae",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Al Quoz 3",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Magnum Security",
+      "phone": "800 624 686",
+      "email": "info@magnumsecurity.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880bf"
+      }
+    },
+    {
+      "name": "Magnum Security",
+      "phone": "+971 4 388 1339",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880c0"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "hr@magnumsecurity.ae",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880c1"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Security"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880c2"
+  },
+  "name": "Transguard Group",
+  "company": "Transguard Group",
+  "website": "https://www.transguardgroup.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Dubai Airport Freezone",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Transguard Group",
+      "phone": "+971 4 703 0500",
+      "email": "info@transguardgroup.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880c3"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@transguardgroup.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880c4"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Security"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880c5"
+  },
+  "name": "Emirates Global Aluminium (EGA)",
+  "company": "Emirates Global Aluminium (EGA)",
+  "website": "https://www.ega.ae",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Jebel Ali",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Emirates Global Aluminium (EGA)",
+      "phone": "+971 4 884 6666",
+      "email": "info@ega.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880c6"
+      }
+    },
+    {
+      "name": "Emirates Global Aluminium (EGA)",
+      "phone": "+971 2 509 4444",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880c7"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@ega.ae",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880c8"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Manufacturing"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880c9"
+  },
+  "name": "RAK Ceramics",
+  "company": "RAK Ceramics",
+  "website": "https://www.rakceramics.com",
+  "industry": "Other",
+  "city": "Ras Al Khaimah",
+  "address": "Al Jazirah Al Hamra",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "RAK Ceramics",
+      "phone": "+971 7 246 7000",
+      "email": "info@rakceramics.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880ca"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@rakceramics.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880cb"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Manufacturing"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880cc"
+  },
+  "name": "GEMS Education",
+  "company": "GEMS Education",
+  "website": "https://www.gemseducation.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Sheikh Zayed Road",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "GEMS Education",
+      "phone": "+971 4 347 7770",
+      "email": "info@gemseducation.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880cd"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@gemseducation.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880ce"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Schools"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880cf"
+  },
+  "name": "The Model School",
+  "company": "The Model School",
+  "website": "https://themodel.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mussafah",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "The Model School",
+      "phone": "+971 2 552 7200",
+      "email": "info@themodel.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880d0"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Schools"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880d1"
+  },
+  "name": "Americana Restaurants",
+  "company": "Americana Restaurants",
+  "website": "https://www.americanarestaurants.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Sharjah HQ",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Americana Restaurants",
+      "phone": "+971 6 506 0700",
+      "email": "info@americana-food.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880d2"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@americana-food.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880d3"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Restaurants"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880d4"
+  },
+  "name": "Abo Ali Restaurant & Cafe",
+  "company": "Abo Ali Restaurant & Cafe",
+  "website": "https://aboalirestaurants.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Al Barsha 3",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Abo Ali Restaurant & Cafe",
+      "phone": "600 500 000",
+      "email": "info@aboalirestaurants.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880d5"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Restaurants"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880d6"
+  },
+  "name": "Medcare Clinics",
+  "company": "Medcare Clinics",
+  "website": "https://www.medcare.ae",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Various Locations",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Medcare Clinics",
+      "phone": "800 633 2273",
+      "email": "info@medcare.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880d7"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@asterdmhealthcare.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880d8"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Clinics"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880d9"
+  },
+  "name": "Aster Clinic",
+  "company": "Aster Clinic",
+  "website": "https://www.asterclinic.ae",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Various Locations",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Aster Clinic",
+      "phone": "04 440 0500",
+      "email": "info@asterdmhealthcare.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880da"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@asterdmhealthcare.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880db"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Clinics"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880dc"
+  },
+  "name": "Gulf Craft",
+  "company": "Gulf Craft",
+  "website": "https://www.gulfcraftinc.com",
+  "industry": "Other",
+  "city": "Umm Al Quwain",
+  "address": "Industrial Area",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Gulf Craft",
+      "phone": "+971 6 765 5888",
+      "email": "info@gulfcraftinc.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880dd"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@gulfcraftinc.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880de"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Manufacturing"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880df"
+  },
+  "name": "Fujairah National Group",
+  "company": "Fujairah National Group",
+  "website": "https://www.fng.ae",
+  "industry": "Other",
+  "city": "Fujairah",
+  "address": "Hamad Bin Abdulla Rd",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Fujairah National Group",
+      "phone": "+971 9 222 2222",
+      "email": "info@fng.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880e0"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "hr@fng.ae",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880e1"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Logistics"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880e2"
+  },
+  "name": "Sharjah Oxygen Co",
+  "company": "Sharjah Oxygen Co",
+  "website": "https://www.sharjahoxygen.com",
+  "industry": "Other",
+  "city": "Sharjah",
+  "address": "Industrial Area",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Sharjah Oxygen Co",
+      "phone": "+971 6 533 6481",
+      "email": "info@sharjahoxygen.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880e3"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Manufacturing"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880e4"
+  },
+  "name": "Ajman Bank",
+  "company": "Ajman Bank",
+  "website": "https://www.ajmanbank.ae",
+  "industry": "Other",
+  "city": "Ajman",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Ajman Bank",
+      "phone": "800 22",
+      "email": "info@ajmanbank.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880e5"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@ajmanbank.ae",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880e6"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Financial Services"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880e7"
+  },
+  "name": "Al Habtoor Group",
+  "company": "Al Habtoor Group",
+  "website": "https://www.habtoor.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Al Wasl Road",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Habtoor Group",
+      "phone": "+971 4 394 1444",
+      "email": "info@habtoor.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880e8"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@habtoor.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880e9"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880ea"
+  },
+  "name": "Dutco Group",
+  "company": "Dutco Group",
+  "website": "https://www.dutco.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Jebel Ali",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Dutco Group",
+      "phone": "+971 4 881 6034",
+      "email": "info@dutco.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880eb"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@dutco.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880ec"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880ed"
+  },
+  "name": "iMile Delivery",
+  "company": "iMile Delivery",
+  "website": "https://www.imile.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Al Quoz",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "iMile Delivery",
+      "phone": "+971 4 330 0000",
+      "email": "support@imile.me",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880ee"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "hr@imile.me",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880ef"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Logistics"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880f0"
+  },
+  "name": "Global Security Services",
+  "company": "Global Security Services",
+  "website": "https://gss-group.net",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Global Security Services",
+      "phone": "+971 2 626 2666",
+      "email": "info@gss-group.net",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880f1"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Security"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880f2"
+  },
+  "name": "Agthia Group",
+  "company": "Agthia Group",
+  "website": "https://www.agthia.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Sky Tower",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Agthia Group",
+      "phone": "+971 2 506 0600",
+      "email": "info@agthia.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880f3"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@agthia.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880f4"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Manufacturing"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880f5"
+  },
+  "name": "Al Nahda National Schools",
+  "company": "Al Nahda National Schools",
+  "website": "https://www.nahdaschools.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Al Mushrif",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Nahda National Schools",
+      "phone": "+971 2 447 4000",
+      "email": "info@nahdaschools.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880f6"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@nahdaschools.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880f7"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Schools"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880f8"
+  },
+  "name": "Jumeirah Group",
+  "company": "Jumeirah Group",
+  "website": "https://www.jumeirah.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Umm Suqeim",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Jumeirah Group",
+      "phone": "+971 4 366 5000",
+      "email": "info@jumeirah.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880f9"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@jumeirah.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880fa"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Restaurants"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880fb"
+  },
+  "name": "NMC Health",
+  "company": "NMC Health",
+  "website": "https://www.nmc.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Madinat Zayed",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "NMC Health",
+      "phone": "+971 2 633 2255",
+      "email": "info@nmc.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880fc"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@nmc.ae",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880fd"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Clinics"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52880fe"
+  },
+  "name": "Al Rushed American School",
+  "company": "Al Rushed American School",
+  "website": "https://alrushedsch.ae",
+  "industry": "Other",
+  "city": "Sharjah",
+  "address": "Maliha Rd",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Rushed American School",
+      "phone": "+971 6 545 5555",
+      "email": "info@alrushedsch.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52880ff"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Schools"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288100"
+  },
+  "name": "Dreamland Aqua Park",
+  "company": "Dreamland Aqua Park",
+  "website": "https://www.dreamlanduae.com",
+  "industry": "Other",
+  "city": "Umm Al Quwain",
+  "address": "Al Shebeika",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Dreamland Aqua Park",
+      "phone": "+971 6 768 1888",
+      "email": "info@dreamlanduae.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288101"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Restaurants"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288102"
+  },
+  "name": "RAK Properties",
+  "company": "RAK Properties",
+  "website": "https://www.rakproperties.ae",
+  "industry": "Other",
+  "city": "Ras Al Khaimah",
+  "address": "Mina Al Arab",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "RAK Properties",
+      "phone": "+971 7 244 4432",
+      "email": "info@rakproperties.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288103"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@rakproperties.ae",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288104"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288105"
+  },
+  "name": "Fujairah Port",
+  "company": "Fujairah Port",
+  "website": "https://fujairahport.ae",
+  "industry": "Other",
+  "city": "Fujairah",
+  "address": "Sakamkam",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Fujairah Port",
+      "phone": "+971 9 222 8800",
+      "email": "info@fujairahport.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288106"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Logistics"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288107"
+  },
+  "name": "Ajman Free Zone",
+  "company": "Ajman Free Zone",
+  "website": "https://www.afz.gov.ae",
+  "industry": "Other",
+  "city": "Ajman",
+  "address": "Ajman Port",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Ajman Free Zone",
+      "phone": "+971 6 701 1555",
+      "email": "info@afz.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288108"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Logistics"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288109"
+  },
+  "name": "Apparel Group",
+  "company": "Apparel Group",
+  "website": "https://www.apparelgroupglobal.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Jebel Ali",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Apparel Group",
+      "phone": "+971 4 813 3111",
+      "email": "info@appareluae.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528810a"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@appareluae.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528810b"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Restaurants"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528810c"
+  },
+  "name": "Chalhoub Group",
+  "company": "Chalhoub Group",
+  "website": "https://www.chalhoubgroup.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "D3",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Chalhoub Group",
+      "phone": "+971 4 817 2000",
+      "email": "info@chalhoub.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528810d"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@chalhoub.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528810e"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Logistics"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528810f"
+  },
+  "name": "Prime Medical Center",
+  "company": "Prime Medical Center",
+  "website": "https://www.primehealth.ae",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Various Locations",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Prime Medical Center",
+      "phone": "04 707 0999",
+      "email": "info@primehealth.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288110"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "hr@primehealth.ae",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288111"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Clinics"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288112"
+  },
+  "name": "Trojan General Contracting",
+  "company": "Trojan General Contracting",
+  "website": "https://trojan.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Al Mafraq",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Trojan General Contracting",
+      "phone": "+971 2 509 7300",
+      "email": "info@trojanconstruction.group",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288113"
+      }
+    },
+    {
+      "name": "Trojan General Contracting",
+      "phone": "+971 2 509 7301",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288114"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288115"
+  },
+  "name": "Target Engineering Construction",
+  "company": "Target Engineering Construction",
+  "website": "https://www.target.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Capital Center",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Target Engineering Construction",
+      "phone": "+971 2 205 2222",
+      "email": "mail@target.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288116"
+      }
+    },
+    {
+      "name": "Target Engineering Construction",
+      "phone": "+971 2 671 4800",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288117"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288118"
+  },
+  "name": "Al Nasr Contracting Company",
+  "company": "Al Nasr Contracting Company",
+  "website": "https://alnasruae.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Al Nahyan Area",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Nasr Contracting Company",
+      "phone": "+971 2 642 0002",
+      "email": "info@alnasruae.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288119"
+      }
+    },
+    {
+      "name": "Al Nasr Contracting Company",
+      "phone": "+971 2 642 0228",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528811a"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528811b"
+  },
+  "name": "Arabian Construction Company (ACC)",
+  "company": "Arabian Construction Company (ACC)",
+  "website": "https://accgroup.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Sky Tower - Al Reem Island",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Arabian Construction Company (ACC)",
+      "phone": "+971 2 644 5400",
+      "email": "enquiry@accgroup.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528811c"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@accgroup.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528811d"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528811e"
+  },
+  "name": "National Projects and Construction (NPC)",
+  "company": "National Projects and Construction (NPC)",
+  "website": "https://npc.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "National Projects and Construction (NPC)",
+      "phone": "+971 2 509 7200",
+      "email": "info@npc.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528811f"
+      }
+    },
+    {
+      "name": "National Projects and Construction (NPC)",
+      "phone": "+971 2 509 7201",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288120"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288121"
+  },
+  "name": "Pivot Engineering and General Contracting",
+  "company": "Pivot Engineering and General Contracting",
+  "website": "https://www.pivot.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Al Bateen",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Pivot Engineering and General Contracting",
+      "phone": "+971 2 694 7999",
+      "email": "contact@pivot.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288122"
+      }
+    },
+    {
+      "name": "Pivot Engineering and General Contracting",
+      "phone": "+971 2 677 6212",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288123"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288124"
+  },
+  "name": "Ali & Sons Contracting",
+  "company": "Ali & Sons Contracting",
+  "website": "https://asc.ali-sons.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "ICAD III",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Ali & Sons Contracting",
+      "phone": "+971 2 554 6611",
+      "email": "ascon@ali-sons.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288125"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288126"
+  },
+  "name": "Ghantoot Group",
+  "company": "Ghantoot Group",
+  "website": "https://ghantoot-group.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Al Nahyan",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Ghantoot Group",
+      "phone": "+971 2 641 3388",
+      "email": "info@ghantoot-group.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288127"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288128"
+  },
+  "name": "Al Geemi Contracting",
+  "company": "Al Geemi Contracting",
+  "website": "https://algeemi.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Geemi Contracting",
+      "phone": "+971 2 694 8300",
+      "email": "algeemip@emirates.net.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288129"
+      }
+    },
+    {
+      "name": "Al Geemi Contracting",
+      "phone": "+971 2 632 8438",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528812a"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528812b"
+  },
+  "name": "Wade Adams Emirates (HILALCO)",
+  "company": "Wade Adams Emirates (HILALCO)",
+  "website": "https://wadeadams.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Wade Adams Emirates (HILALCO)",
+      "phone": "+971 2 699 8999",
+      "email": "wa.emirates@wadeadams.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528812c"
+      }
+    },
+    {
+      "name": "Wade Adams Emirates (HILALCO)",
+      "phone": "+971 2 681 9777",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528812d"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528812e"
+  },
+  "name": "Six Construct",
+  "company": "Six Construct",
+  "website": "https://www.sixconstruct.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Sky Tower - Al Reem Island",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Six Construct",
+      "phone": "+971 2 658 2666",
+      "email": "auh@sixco.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528812f"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288130"
+  },
+  "name": "Al Jaber Group",
+  "company": "Al Jaber Group",
+  "website": "https://aljaber.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mussafah",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Jaber Group",
+      "phone": "+971 2 555 4300",
+      "email": "aljaber@aje.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288131"
+      }
+    },
+    {
+      "name": "Al Jaber Group",
+      "phone": "+971 2 555 3370",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288132"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288133"
+  },
+  "name": "ASGC Abu Dhabi",
+  "company": "ASGC Abu Dhabi",
+  "website": "https://www.asgcgroup.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Corniche Road",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "ASGC Abu Dhabi",
+      "phone": "+971 4 425 8000",
+      "email": "info@asgcgroup.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288134"
+      }
+    },
+    {
+      "name": "ASGC Abu Dhabi",
+      "phone": "+971 2 296 4600",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288135"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288136"
+  },
+  "name": "Al Masaood National General Contracting",
+  "company": "Al Masaood National General Contracting",
+  "website": "https://www.almasaood-ngc.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Hamdan Tower",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Masaood National General Contracting",
+      "phone": "+971 2 201 7297",
+      "email": "info@masaood.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288137"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288138"
+  },
+  "name": "Bunya",
+  "company": "Bunya",
+  "website": "https://bunya.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Bunya",
+      "phone": "+971 2 410 1444",
+      "email": "info@bunya.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288139"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528813a"
+  },
+  "name": "China State Construction (CSCEC) Abu Dhabi",
+  "company": "China State Construction (CSCEC) Abu Dhabi",
+  "website": "https://www.cscec.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "China State Construction (CSCEC) Abu Dhabi",
+      "phone": "+971 4 453 0600",
+      "email": "info@cscec.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528813b"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528813c"
+  },
+  "name": "Adeeb Group (Fit-out & MEP)",
+  "company": "Adeeb Group (Fit-out & MEP)",
+  "website": "https://adeebgroup.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Adeeb Group (Fit-out & MEP)",
+      "phone": "+971 2 644 9116",
+      "email": "info@adeebgroup.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528813d"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528813e"
+  },
+  "name": "Elite Energy (MEP Contracting)",
+  "company": "Elite Energy (MEP Contracting)",
+  "website": "https://eeelm.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Elite Energy (MEP Contracting)",
+      "phone": "+971 58 577 2599",
+      "email": "info@eeelm.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528813f"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288140"
+  },
+  "name": "Target Engineering Consultant",
+  "company": "Target Engineering Consultant",
+  "website": "https://targetuae.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Al Muroor Road",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Target Engineering Consultant",
+      "phone": "+971 2 658 8622",
+      "email": "info@targetuae.net",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288141"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288142"
+  },
+  "name": "Zublin Construction",
+  "company": "Zublin Construction",
+  "website": "https://www.zublin-international.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Zublin Construction",
+      "phone": "+971 2 644 0460",
+      "email": "info@zublin-international.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288143"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288144"
+  },
+  "name": "National Projects and Construction (NPC) Subsidiary",
+  "company": "National Projects and Construction (NPC) Subsidiary",
+  "website": "https://nationalprojectsuae.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "National Projects and Construction (NPC) Subsidiary",
+      "phone": "+971 2 509 7200",
+      "email": "info@nationalprojectsuae.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288145"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288146"
+  },
+  "name": "Dutco Construction Abu Dhabi",
+  "company": "Dutco Construction Abu Dhabi",
+  "website": "https://www.dutcoconstruction.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Dutco Construction Abu Dhabi",
+      "phone": "+971 2 550 1222",
+      "email": "info@dutco.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288147"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288148"
+  },
+  "name": "Al Nasr Contracting (Defence Road)",
+  "company": "Al Nasr Contracting (Defence Road)",
+  "website": "https://alnasruae.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Defence Road",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Nasr Contracting (Defence Road)",
+      "phone": "+971 2 642 0002",
+      "email": "info@alnasruae.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288149"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528814a"
+  },
+  "name": "Pivot Engineering (Bateen)",
+  "company": "Pivot Engineering (Bateen)",
+  "website": "https://www.pivot.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Al Bateen",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Pivot Engineering (Bateen)",
+      "phone": "+971 2 694 7999",
+      "email": "contact@pivot.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528814b"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528814c"
+  },
+  "name": "Ghantoot Transport & Gen. Cont.",
+  "company": "Ghantoot Transport & Gen. Cont.",
+  "website": "https://ghantoot-group.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mussafah",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Ghantoot Transport & Gen. Cont.",
+      "phone": "+971 2 551 1055",
+      "email": "info@ghantootgroup.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528814d"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528814e"
+  },
+  "name": "Al Geemi (Bin Hamoodah)",
+  "company": "Al Geemi (Bin Hamoodah)",
+  "website": "https://algeemi.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "ICAD",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Geemi (Bin Hamoodah)",
+      "phone": "+971 2 694 8300",
+      "email": "algeemip@emirates.net.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528814f"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288150"
+  },
+  "name": "Wade Adams (Abu Dhabi Branch)",
+  "company": "Wade Adams (Abu Dhabi Branch)",
+  "website": "https://wadeadams.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mussafah",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Wade Adams (Abu Dhabi Branch)",
+      "phone": "+971 2 699 8999",
+      "email": "info@wadeadams.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288151"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288152"
+  },
+  "name": "ASGC (3 Sails Building)",
+  "company": "ASGC (3 Sails Building)",
+  "website": "https://www.asgcgroup.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Corniche",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "ASGC (3 Sails Building)",
+      "phone": "+971 2 296 4600",
+      "email": "info@asgcgroup.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288153"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288154"
+  },
+  "name": "Trojan Construction Group HQ",
+  "company": "Trojan Construction Group HQ",
+  "website": "https://trojan.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mafraq",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Trojan Construction Group HQ",
+      "phone": "+971 2 509 7300",
+      "email": "info@trojanconstruction.group",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288155"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288156"
+  },
+  "name": "Target Engineering (Capital Center)",
+  "company": "Target Engineering (Capital Center)",
+  "website": "https://www.target.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Capital Center",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Target Engineering (Capital Center)",
+      "phone": "+971 2 205 2222",
+      "email": "mail@target.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288157"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288158"
+  },
+  "name": "Red Hills General Contracting",
+  "company": "Red Hills General Contracting",
+  "website": "https://www.redhillsgc.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mussafah M-9",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Red Hills General Contracting",
+      "phone": "+971 2 673 1900",
+      "email": "info@redhillsgc.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288159"
+      }
+    },
+    {
+      "name": "Red Hills General Contracting",
+      "phone": "+971 50 487 3338",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528815a"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528815b"
+  },
+  "name": "Prime Axis General Contracting",
+  "company": "Prime Axis General Contracting",
+  "website": "https://primeaxis.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mussafah M-39",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Prime Axis General Contracting",
+      "phone": "+971 2 658 8622",
+      "email": "info@primeaxis.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528815c"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "hifsu@primeaxis.ae",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528815d"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528815e"
+  },
+  "name": "White Arch General Contracting & Maintenance",
+  "company": "White Arch General Contracting & Maintenance",
+  "website": "https://whitearch-me.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "White Arch General Contracting & Maintenance",
+      "phone": "+971 2 643 7371",
+      "email": "info@whitearch.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528815f"
+      }
+    },
+    {
+      "name": "White Arch General Contracting & Maintenance",
+      "phone": "+971 55 464 5888",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288160"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288161"
+  },
+  "name": "Silver Coast Construction and Boring",
+  "company": "Silver Coast Construction and Boring",
+  "website": "https://silvercoast.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Silver Coast Construction and Boring",
+      "phone": "+971 2 621 4494",
+      "email": "info@silvercoast.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288162"
+      }
+    },
+    {
+      "name": "Silver Coast Construction and Boring",
+      "phone": "+971 2 621 9228",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288163"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288164"
+  },
+  "name": "Al Rakha Group",
+  "company": "Al Rakha Group",
+  "website": "https://www.alrakha.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Khalidiyah",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Rakha Group",
+      "phone": "+971 2 677 1624",
+      "email": "arrakha@eim.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288165"
+      }
+    },
+    {
+      "name": "Al Rakha Group",
+      "phone": "+971 2 677 1626",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288166"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288167"
+  },
+  "name": "Galaxy Advanced General Contracting (MEP)",
+  "company": "Galaxy Advanced General Contracting (MEP)",
+  "website": "https://www.galaxymep.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Salam Street",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Galaxy Advanced General Contracting (MEP)",
+      "phone": "+971 2 615 1600",
+      "email": "info@galaxymep.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288168"
+      }
+    },
+    {
+      "name": "Galaxy Advanced General Contracting (MEP)",
+      "phone": "+971 2 665 1670",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288169"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528816a"
+  },
+  "name": "Emirates Technical & Thermal Systems (ETTS)",
+  "company": "Emirates Technical & Thermal Systems (ETTS)",
+  "website": "https://www.etts.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "MBZ City",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Emirates Technical & Thermal Systems (ETTS)",
+      "phone": "+971 2 667 8080",
+      "email": "etts@emirates.net.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528816b"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528816c"
+  },
+  "name": "Al Khanezi Electromechanical Works",
+  "company": "Al Khanezi Electromechanical Works",
+  "website": "https://www.khanezi.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Al Khalidiya",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Khanezi Electromechanical Works",
+      "phone": "+971 2 633 4178",
+      "email": "info@khanezi.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528816d"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528816e"
+  },
+  "name": "Intexture Design & Interiors",
+  "company": "Intexture Design & Interiors",
+  "website": "https://intexturedesign.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Liwa Street",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Intexture Design & Interiors",
+      "phone": "+971 55 875 2523",
+      "email": "intexturedesign@outlook.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528816f"
+      }
+    },
+    {
+      "name": "Intexture Design & Interiors",
+      "phone": "+971 56 673 7358",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288170"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288171"
+  },
+  "name": "Trenton General Contracting",
+  "company": "Trenton General Contracting",
+  "website": "https://trentonuae.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Trenton General Contracting",
+      "phone": "+971 2 877 6643",
+      "email": "info@trentonuae.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288172"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288173"
+  },
+  "name": "Uptown Technical Services (Fit-out)",
+  "company": "Uptown Technical Services (Fit-out)",
+  "website": "https://www.uptown.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Hamdan Street",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Uptown Technical Services (Fit-out)",
+      "phone": "+971 2 448 8991",
+      "email": "info@uptown.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288174"
+      }
+    },
+    {
+      "name": "Uptown Technical Services (Fit-out)",
+      "phone": "+971 56 677 7552",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288175"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288176"
+  },
+  "name": "Avanzo Electromechanical Contracting",
+  "company": "Avanzo Electromechanical Contracting",
+  "website": "https://avanzo.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mussafah M-4",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Avanzo Electromechanical Contracting",
+      "phone": "+971 50 252 5180",
+      "email": "hello@avanzo.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288177"
+      }
+    },
+    {
+      "name": "Avanzo Electromechanical Contracting",
+      "phone": "+971 54 236 5212",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288178"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288179"
+  },
+  "name": "White Stone General Contracting",
+  "company": "White Stone General Contracting",
+  "website": "https://solidsurface.whitestoneuae.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Defence Road",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "White Stone General Contracting",
+      "phone": "+971 2 641 9161",
+      "email": "info@whitestoneuae.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528817a"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528817b"
+  },
+  "name": "Al Ishraf Group (MEP)",
+  "company": "Al Ishraf Group (MEP)",
+  "website": "https://alishraf.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mussafah M-33",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Ishraf Group (MEP)",
+      "phone": "+971 2 550 3774",
+      "email": "contracting@alishraf.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528817c"
+      }
+    },
+    {
+      "name": "Al Ishraf Group (MEP)",
+      "phone": "+971 2 550 6277",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528817d"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528817e"
+  },
+  "name": "Bonyan Gulf General Contracting",
+  "company": "Bonyan Gulf General Contracting",
+  "website": "https://bonyan.roshniworkspace.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Bonyan Gulf General Contracting",
+      "phone": "+971 2 665 0636",
+      "email": "zaid.ayyash@bonyangulf.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528817f"
+      }
+    },
+    {
+      "name": "Bonyan Gulf General Contracting",
+      "phone": "+971 54 550 5555",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288180"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288181"
+  },
+  "name": "Apex Experts Contracting",
+  "company": "Apex Experts Contracting",
+  "website": "https://www.apex-cont.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Apex Experts Contracting",
+      "phone": "+971 4 273 1902",
+      "email": "info@apex-cont.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288182"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288183"
+  },
+  "name": "Al Ain General Contracting (ALGECO)",
+  "company": "Al Ain General Contracting (ALGECO)",
+  "website": "https://www.algeco.net",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mina Zayed",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Ain General Contracting (ALGECO)",
+      "phone": "+971 3 782 5606",
+      "email": "alain@algeco.net",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288184"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288185"
+  },
+  "name": "Alloy Contracting",
+  "company": "Alloy Contracting",
+  "website": "https://alloycontracting.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Al Ain/Abu Dhabi",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Alloy Contracting",
+      "phone": "+971 3 722 2222",
+      "email": "info@alloycontracting.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288186"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288187"
+  },
+  "name": "Commodore Contracting Company",
+  "company": "Commodore Contracting Company",
+  "website": "https://www.commodore.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Khalifa Street",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Commodore Contracting Company",
+      "phone": "+971 2 626 5222",
+      "email": "info@commodore.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288188"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288189"
+  },
+  "name": "Al Fara'a General Contracting",
+  "company": "Al Fara'a General Contracting",
+  "website": "https://alfaraa.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Fara'a General Contracting",
+      "phone": "+971 2 643 1333",
+      "email": "info@alfaraa.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528818a"
+      }
+    },
+    {
+      "name": "Al Fara'a General Contracting",
+      "phone": "+971 2 643 1666",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528818b"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@alfaraa.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528818c"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528818d"
+  },
+  "name": "Emirates Belbadi Contracting (EBC)",
+  "company": "Emirates Belbadi Contracting (EBC)",
+  "website": "https://www.ebelbadi.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Khalidiya",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Emirates Belbadi Contracting (EBC)",
+      "phone": "+971 2 631 7171",
+      "email": "ebcuae2013@gmail.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528818e"
+      }
+    },
+    {
+      "name": "Emirates Belbadi Contracting (EBC)",
+      "phone": "+971 2 631 7087",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528818f"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288190"
+  },
+  "name": "Modern Emirates Heavy Cranes (MEHC)",
+  "company": "Modern Emirates Heavy Cranes (MEHC)",
+  "website": "https://www.mehc.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Modern Emirates Heavy Cranes (MEHC)",
+      "phone": "+971 4 886 7213",
+      "email": "mehc@mehc.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288191"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288192"
+  },
+  "name": "Al Farah Contracting & General Transport",
+  "company": "Al Farah Contracting & General Transport",
+  "website": "https://alfarahuae.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Head Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Farah Contracting & General Transport",
+      "phone": "+971 2 555 3333",
+      "email": "info@alfarahuae.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288193"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288194"
+  },
+  "name": "Larsen & Toubro (L&T) Construction",
+  "company": "Larsen & Toubro (L&T) Construction",
+  "website": "https://www.lntecc.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Larsen & Toubro (L&T) Construction",
+      "phone": "+971 2 671 4800",
+      "email": "info@lntecc.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288195"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288196"
+  },
+  "name": "Shapoorji Pallonji Mideast",
+  "company": "Shapoorji Pallonji Mideast",
+  "website": "https://www.shapoorjipallonji.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Shapoorji Pallonji Mideast",
+      "phone": "+971 4 335 9555",
+      "email": "info@spmideast.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288197"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe5288198"
+  },
+  "name": "Al Hamad Building Contracting",
+  "company": "Al Hamad Building Contracting",
+  "website": "https://www.al-hamad.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Hamad Building Contracting",
+      "phone": "+971 6 533 1222",
+      "email": "info@al-hamad.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe5288199"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528819a"
+  },
+  "name": "Ghantoot Transport & General Contracting",
+  "company": "Ghantoot Transport & General Contracting",
+  "website": "https://ghantoot-group.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mussafah",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Ghantoot Transport & General Contracting",
+      "phone": "+971 2 551 1055",
+      "email": "info@ghantootgroup.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528819b"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528819c"
+  },
+  "name": "White Arch (MEP Division)",
+  "company": "White Arch (MEP Division)",
+  "website": "https://whitearch-me.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mussafah",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "White Arch (MEP Division)",
+      "phone": "+971 55 464 5888",
+      "email": "info@whitearch.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528819d"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe528819e"
+  },
+  "name": "Prime Axis (Construction Division)",
+  "company": "Prime Axis (Construction Division)",
+  "website": "https://primeaxis.ae",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mussafah",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Prime Axis (Construction Division)",
+      "phone": "+971 2 658 8622",
+      "email": "info@primeaxis.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe528819f"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881a0"
+  },
+  "name": "Red Hills (Civil Works)",
+  "company": "Red Hills (Civil Works)",
+  "website": "https://www.redhillsgc.com",
+  "industry": "Other",
+  "city": "Abu Dhabi",
+  "address": "Mussafah",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Red Hills (Civil Works)",
+      "phone": "+971 2 673 1900",
+      "email": "info@redhillsgc.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881a1"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881a2"
+  },
+  "name": "Prestige Constructions LLC",
+  "company": "Prestige Constructions LLC",
+  "website": "https://prestigegroup.me",
+  "industry": "Other",
+  "city": "Ajman",
+  "address": "Al Rashidiya",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Prestige Constructions LLC",
+      "phone": "+971 6 745 1389",
+      "email": "corporate@prestigegroup.me",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881a3"
+      }
+    },
+    {
+      "name": "Prestige Constructions LLC",
+      "phone": "+971 4 220 7539",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881a4"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881a5"
+  },
+  "name": "Fujairah National Construction & Transport (FNCT)",
+  "company": "Fujairah National Construction & Transport (FNCT)",
+  "website": "https://www.fnct.ae",
+  "industry": "Other",
+  "city": "Fujairah",
+  "address": "P.O. Box 801",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Fujairah National Construction & Transport (FNCT)",
+      "phone": "+971 9 223 3344",
+      "email": "fnct@fng.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881a6"
+      }
+    },
+    {
+      "name": "Fujairah National Construction & Transport (FNCT)",
+      "phone": "+971 9 222 2128",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881a7"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "info.workshop@fng.ae",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881a8"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881a9"
+  },
+  "name": "Sharjah General Contracting Company (SGCC)",
+  "company": "Sharjah General Contracting Company (SGCC)",
+  "website": "https://www.sgcc.ae",
+  "industry": "Other",
+  "city": "Sharjah",
+  "address": "Industrial Area 15",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Sharjah General Contracting Company (SGCC)",
+      "phone": "+971 6 534 5222",
+      "email": "info@sgcc.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881aa"
+      }
+    },
+    {
+      "name": "Sharjah General Contracting Company (SGCC)",
+      "phone": "+971 6 534 7171",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881ab"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881ac"
+  },
+  "name": "Fala Group",
+  "company": "Fala Group",
+  "website": "https://falagroup.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Al Qusais",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Fala Group",
+      "phone": "+971 4 263 5553",
+      "email": "secretary1@falagroup.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881ad"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881ae"
+  },
+  "name": "Bin Belaila Baytur",
+  "company": "Bin Belaila Baytur",
+  "website": "https://www.binbelaila.com",
+  "industry": "Other",
+  "city": "Dubai",
+  "address": "Al Qusais",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Bin Belaila Baytur",
+      "phone": "+971 4 392 6999",
+      "email": "info@binbelaila.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881af"
+      }
+    },
+    {
+      "name": "Bin Belaila Baytur",
+      "phone": "+971 4 363 8201",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881b0"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "uae@baytur.org",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881b1"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881b2"
+  },
+  "name": "Al Rakha Group (Sharjah Branch)",
+  "company": "Al Rakha Group (Sharjah Branch)",
+  "website": "https://www.alrakha.com",
+  "industry": "Other",
+  "city": "Sharjah",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Rakha Group (Sharjah Branch)",
+      "phone": "+971 2 677 1624",
+      "email": "arrakha@eim.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881b3"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881b4"
+  },
+  "name": "White Arch General Contracting (Sharjah)",
+  "company": "White Arch General Contracting (Sharjah)",
+  "website": "https://whitearch-me.com",
+  "industry": "Other",
+  "city": "Sharjah",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "White Arch General Contracting (Sharjah)",
+      "phone": "+971 6 555 5555",
+      "email": "info@whitearch.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881b5"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881b6"
+  },
+  "name": "Amana Contracting",
+  "company": "Amana Contracting",
+  "website": "https://amanabuilds.com",
+  "industry": "Other",
+  "city": "Sharjah",
+  "address": "Hamriyah Free Zone",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Amana Contracting",
+      "phone": "+971 6 526 3333",
+      "email": "info@amanabuilds.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881b7"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881b8"
+  },
+  "name": "Lootah Group",
+  "company": "Lootah Group",
+  "website": "https://www.lootahgroup.com",
+  "industry": "Other",
+  "city": "Sharjah",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Lootah Group",
+      "phone": "+971 6 534 1111",
+      "email": "info@lootahgroup.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881b9"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881ba"
+  },
+  "name": "Galfar Engineering & Contracting (UAE)",
+  "company": "Galfar Engineering & Contracting (UAE)",
+  "website": "https://www.galfar.com",
+  "industry": "Other",
+  "city": "Sharjah",
+  "address": "Industrial Area",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Galfar Engineering & Contracting (UAE)",
+      "phone": "+971 6 534 8888",
+      "email": "info@galfar.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881bb"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881bc"
+  },
+  "name": "Fujairah National Construction Co (FNC)",
+  "company": "Fujairah National Construction Co (FNC)",
+  "website": "https://www.fncglobal.com",
+  "industry": "Other",
+  "city": "Dubai/Fujairah",
+  "address": "Al Qusais",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Fujairah National Construction Co (FNC)",
+      "phone": "+971 4 393 8888",
+      "email": "info@fncglobal.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881bd"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881be"
+  },
+  "name": "Islamic Building Contracting Est",
+  "company": "Islamic Building Contracting Est",
+  "website": "https://www.fng.ae",
+  "industry": "Other",
+  "city": "Fujairah",
+  "address": "P.O. Box 1772",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Islamic Building Contracting Est",
+      "phone": "+971 9 222 7940",
+      "email": "info@fng.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881bf"
+      }
+    },
+    {
+      "name": "Islamic Building Contracting Est",
+      "phone": "+971 55 155 5597",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881c0"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881c1"
+  },
+  "name": "White Stone General Contracting (Northern)",
+  "company": "White Stone General Contracting (Northern)",
+  "website": "https://solidsurface.whitestoneuae.com",
+  "industry": "Other",
+  "city": "Sharjah/Ajman",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "White Stone General Contracting (Northern)",
+      "phone": "+971 2 641 9161",
+      "email": "info@whitestoneuae.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881c2"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881c3"
+  },
+  "name": "Al Fara'a General Contracting (Northern)",
+  "company": "Al Fara'a General Contracting (Northern)",
+  "website": "https://alfaraa.com",
+  "industry": "Other",
+  "city": "Sharjah/Ajman",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Fara'a General Contracting (Northern)",
+      "phone": "+971 3 782 5825",
+      "email": "info@alfaraa.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881c4"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881c5"
+  },
+  "name": "National Contracting Company (NCC)",
+  "company": "National Contracting Company (NCC)",
+  "website": "https://www.ncc.ae",
+  "industry": "Other",
+  "city": "Sharjah",
+  "address": "Industrial Area",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "National Contracting Company (NCC)",
+      "phone": "+971 6 534 7777",
+      "email": "info@ncc.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881c6"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881c7"
+  },
+  "name": "Ajman Free Zone Construction",
+  "company": "Ajman Free Zone Construction",
+  "website": "https://www.afz.gov.ae",
+  "industry": "Other",
+  "city": "Ajman",
+  "address": "Free Zone",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Ajman Free Zone Construction",
+      "phone": "+971 6 701 1555",
+      "email": "info@afz.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881c8"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881c9"
+  },
+  "name": "RAK Ceramics (Construction Services)",
+  "company": "RAK Ceramics (Construction Services)",
+  "website": "https://www.rakceramics.com",
+  "industry": "Other",
+  "city": "Ras Al Khaimah",
+  "address": "P.O. Box 4714",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "RAK Ceramics (Construction Services)",
+      "phone": "+971 7 246 7000",
+      "email": "info@rakceramics.com",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881ca"
+      }
+    },
+    {
+      "name": "RAK Ceramics (Construction Services)",
+      "phone": "+971 7 244 5046",
+      "isPrimary": false,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881cb"
+      }
+    }
+  ],
+  "hrContacts": [
+    {
+      "phone": "",
+      "email": "careers@rakceramics.com",
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881cc"
+      }
+    }
+  ],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.852Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.852Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881cd"
+  },
+  "name": "Al Ain General Contracting (ALGECO) Northern",
+  "company": "Al Ain General Contracting (ALGECO) Northern",
+  "website": "https://www.algeco.net",
+  "industry": "Other",
+  "city": "Sharjah/Ajman",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Al Ain General Contracting (ALGECO) Northern",
+      "phone": "+971 3 782 5606",
+      "email": "alain@algeco.net",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881ce"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.852Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.852Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881cf"
+  },
+  "name": "Pivot Engineering (Northern Branch)",
+  "company": "Pivot Engineering (Northern Branch)",
+  "website": "https://www.pivot.ae",
+  "industry": "Other",
+  "city": "Sharjah/Ajman",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Pivot Engineering (Northern Branch)",
+      "phone": "+971 2 694 7999",
+      "email": "contact@pivot.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881d0"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.852Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.852Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d337d51e17a2dfe52881d1"
+  },
+  "name": "Commodore Contracting (Northern Branch)",
+  "company": "Commodore Contracting (Northern Branch)",
+  "website": "https://www.commodore.ae",
+  "industry": "Other",
+  "city": "Sharjah/Ajman",
+  "address": "Branch Office",
+  "source": "Website",
+  "sourceDetails": "CSV Import",
+  "contacts": [
+    {
+      "name": "Commodore Contracting (Northern Branch)",
+      "phone": "+971 2 626 5222",
+      "email": "info@commodore.ae",
+      "isPrimary": true,
+      "_id": {
+        "$oid": "69d337d51e17a2dfe52881d2"
+      }
+    }
+  ],
+  "hrContacts": [],
+  "status": "new",
+  "temperature": "cold",
+  "score": 0,
+  "currency": "INR",
+  "tags": [
+    "Construction"
+  ],
+  "remarks": "",
+  "linkedinUrl": "",
+  "companySize": "",
+  "isConverted": false,
+  "isArchived": false,
+  "activities": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T04:34:29.852Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T04:34:29.852Z"
+  }
+}]

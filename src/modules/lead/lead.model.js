@@ -1,18 +1,74 @@
 import mongoose from "mongoose";
 
+export const Industry = [
+  "IT",
+  "Finance",
+  "HealthCare",
+  "Construction",
+  "Hospitality & Tourism",
+  "Logistic",
+  "Transport",
+  "Real Estate",
+  "Bank & Finance",
+  "Retail",
+  "E-Commerce",
+  "Consulting",
+  "Oil & Gas",
+  "Cleaning",
+  "Security",
+  "Manufacturing",
+  "Education",
+  "Restaurants & Cafe",
+  "Clinics",
+  "Others"
+]
+
+export const Source = [
+  "sales"
+];
+
+export const Status = {
+  new: "new",
+  contacted: "contacted",
+  interested: "interested",
+  quoteSent: "quote Sent",
+  won: "won",
+  lost: "lost",
+}
+
+export const Temperature = {
+  cold: "cold",
+  warm: "warm",
+  hot: "hot",
+}
+
+export const Activities = {
+  call: "Call",
+  email: "Email",
+  meeting: "Meeting",
+  note: "Note",
+};
+
+export const City = ["Abu Dhabi", "Dubai", "Sharjah", "Ajman", "Umm Al Quwain", "Fujairah", "Ras Al Khaimah"]
+
+const ActivitiesSchema = new mongoose.Schema({
+  type: {
+    type: String,
+    enum: Activities,
+    default: Activities.note,
+  },
+  note: String,
+}, {
+  timestamps: true,
+});
+
+
 const LeadSchema = new mongoose.Schema(
   {
-    // 🔹 Basic Info
-    name: {
-      type: String,
-      trim: true,
-      required: true,
-      index: true,
-    },
-
     company: {
       type: String,
       trim: true,
+      index: 1,
     },
 
     website: {
@@ -22,44 +78,25 @@ const LeadSchema = new mongoose.Schema(
 
     industry: {
       type: String,
-      enum: [
-        "IT",
-        "Finance",
-        "Healthcare",
-        "Education",
-        "Manufacturing",
-        "Real Estate",
-        "Other",
-      ],
+      enum: Industry,
+      default: "Others"
     },
 
-    // 🔹 Location
-    city: { type: String, trim: true },
-    state: { type: String, trim: true },
-    country: { type: String },
     address: { type: String },
+    city: { type: String, trim: true },
+    emirate: { type: String, trim: true },
+    country: { type: String },
 
-    // 🔹 Lead Source (VERY IMPORTANT in real systems)
     source: {
       type: String,
-      enum: [
-        "LinkedIn",
-        "Website",
-        "Referral",
-        "Cold Call",
-        "Email Campaign",
-        "Ads",
-        "Event",
-        "Other",
-      ],
-      required: true,
+      enum: Source,
+      default: "Others",
     },
 
     sourceDetails: {
       type: String, // e.g. campaign name, URL, etc.
     },
 
-    // 🔹 Contacts (structured instead of arrays)
     contacts: [
       {
         name: String,
@@ -70,7 +107,6 @@ const LeadSchema = new mongoose.Schema(
       },
     ],
 
-    // 🔹 HR Contacts (separate if needed)
     hrContacts: [
       {
         name: String,
@@ -79,30 +115,18 @@ const LeadSchema = new mongoose.Schema(
       },
     ],
 
-    // 🔹 Lead Status (Lifecycle)
     status: {
       type: String,
-      enum: [
-        "new",
-        "contacted",
-        "qualified",
-        "proposal-sent",
-        "negotiation",
-        "won",
-        "lost",
-        "not-interested",
-      ],
-      default: "new",
+      enum: Status,
+      default: Status.new,
     },
 
-    // 🔹 Lead Temperature (Sales priority)
     temperature: {
       type: String,
-      enum: ["cold", "warm", "hot"],
-      default: "cold",
+      enum: Temperature,
+      default: Temperature.cold,
     },
 
-    // 🔹 Lead Score (for automation)
     score: {
       type: Number,
       default: 0,
@@ -110,7 +134,6 @@ const LeadSchema = new mongoose.Schema(
       max: 100,
     },
 
-    // 🔹 Assignment (important for team)
     assignedTo: {
       type: mongoose.Schema.Types.ObjectId,
       ref: "User",
@@ -125,19 +148,17 @@ const LeadSchema = new mongoose.Schema(
       type: Date,
     },
 
-    // 🔹 Deal Info (optional but powerful)
     dealValue: {
       type: Number,
     },
 
     currency: {
       type: String,
-      default: "INR",
+      default: "AED",
     },
 
     expectedCloseDate: Date,
 
-    // 🔹 Tags (flexible filtering)
     tags: {
       type: [String],
       default: [],
@@ -146,24 +167,7 @@ const LeadSchema = new mongoose.Schema(
     // 🔹 Notes / Remarks
     remarks: String,
 
-    // 🔹 Activity History (VERY IMPORTANT)
-    activities: [
-      {
-        type: {
-          type: String,
-          enum: ["call", "email", "meeting", "note"],
-        },
-        note: String,
-        createdAt: {
-          type: Date,
-          default: Date.now,
-        },
-        createdBy: {
-          type: mongoose.Schema.Types.ObjectId,
-          ref: "User",
-        },
-      },
-    ],
+    activities: [ActivitiesSchema],
 
     // 🔹 Data Enrichment
     linkedinUrl: String,

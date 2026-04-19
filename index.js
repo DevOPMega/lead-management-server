@@ -5,6 +5,7 @@ import cookieParser from 'cookie-parser';
 import connectDb from './src/config/db.js';
 import leadRoute from './src/modules/lead/lead.route.js';
 import { globalErrorHandler, routeNotFoundHandler } from './src/middleware/handler.js';
+import UserRoute from './src/modules/user/user.route.js';
 
 const app = express();
 
@@ -36,6 +37,7 @@ app.get('/', (req, res) => {
   res.send('Lead management UAE server is running');
 });
 
+app.use("/api/v1/user", UserRoute);
 app.use("/api/v1/leads", leadRoute);
 
 
@@ -46,8 +48,5 @@ app.use(routeNotFoundHandler);
 app.use(globalErrorHandler);
 
 app.listen(process.env.PORT, () => {
-  console.log(process.env.PORT)
-  console.log(process.env.CLIENT_ORIGIN)
-  console.log(process.env.NODE_ENV)
   console.log(`Server started on port ${process.env.PORT}`);
 });

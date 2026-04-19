@@ -89,7 +89,7 @@ const seedCSVLeadsIntoDB = async () => {
                 name,
                 company: name,
                 website: cleanString(row["Website"]),
-                industry: "Other",
+                industry: cleanString(row["Category"]),
 
                 city: cleanString(row["City/Emirate"]),
                 address: cleanString(row["Area/Location"]),

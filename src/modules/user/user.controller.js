@@ -7,12 +7,12 @@ import bcrypt from "bcryptjs"
 const UserController = {
     register: async (req, res, next) => {
         try {
-            if (req.user.role !== "admin") {
-                return res.status(403).json({
-                    success: false,
-                    message: "Access denied!"
-                })
-            }
+            // if (req.user.role !== "admin") {
+            //     return res.status(403).json({
+            //         success: false,
+            //         message: "Access denied!"
+            //     })
+            // }
 
             const { email, password, role } = req.body;
 
@@ -82,7 +82,7 @@ const UserController = {
 
             const cookies = {
                 path: "/",
-                domain: "devopmega.space",
+                domain: process.env.COOKIE_DOMAIN,
                 httpOnly: true,
                 secure: true,
                 sameSite: "none",
@@ -112,7 +112,7 @@ const UserController = {
                 httpOnly: true,
                 secure: true,
                 sameSite: "none",
-                domain: ".inc1.devtunnels.ms",
+                domain: process.env.COOKIE_DOMAIN,
                 path: "/",
             });
 

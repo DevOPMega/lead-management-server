@@ -65,6 +65,26 @@ const LeadController = {
         }
     },
 
+    getLeadById: async (req, res, next) => {
+        try {
+            const { id } = req.params;
+
+            const lead = await LeadModel.findById(id);
+
+            res.status(200).json({
+                lead: lead
+            });
+        } catch (error) {
+            log.error(`Error Message: ${error.message}\nError Stack: ${error}`);
+
+            next(
+                createHttpError(500, {
+                    message: "API function error: Lead By Id"
+                })
+            )
+        }
+    },
+
     createLead: async (req, res, next) => {
         try {
             // Body Validation
@@ -112,6 +132,124 @@ const LeadController = {
             next(
                 createHttpError(500, {
                     message: "API function error: Create lead",
+                })
+            )
+        }
+    },
+
+    changeLeadStatus: async (req, res, next) => {
+        try {
+            const { leadId, status } = req.body;
+
+            await LeadModel.findByIdAndUpdate(leadId, {
+                $set: {
+                    status: status,
+                }
+            })
+
+            res.status(201).json({
+                success: true,
+                message: "Lead status changed!"
+            })
+        } catch (error) {
+            log.error(`Error Message: ${error.message}\nError Stack: ${error}`);
+
+            next(
+                createHttpError(500, {
+                    message: "API function error: Change lead Status",
+                })
+            )
+        }
+    },
+
+    changeLeadTemp: async (req, res, next) => {
+        try {
+            const { leadId, temp } = req.body;
+
+            await LeadModel.findByIdAndUpdate(leadId, {
+                $set: {
+                    temperature: temp,
+                }
+            })
+
+            res.status(201).json({
+                success: true,
+                message: "Lead temp changed!"
+            })
+        } catch (error) {
+            log.error(`Error Message: ${error.message}\nError Stack: ${error}`);
+
+            next(
+                createHttpError(500, {
+                    message: "API function error: Change lead temp",
+                })
+            )
+        }
+    },
+
+    updateRemark: async (req, res, next) => {
+        try {
+            const { id } = req.params;
+            const { action, type, remark, nextFollowUp } = req.body;
+
+            switch (action) {
+                case "add":
+                    await LeadModel.findByIdAndUpdate(id, {
+                        $push: {
+                            remarks: {
+                                type,
+                                remark,
+                                nextFollowUp,
+                            }
+                        }
+                    });
+                    break;
+            }
+
+            res.status(201).json({
+                success: true,
+                message: "Remark updated!"
+            })
+        } catch (error) {
+            log.error(`Error Message: ${error.message}\nError Stack: ${error}`);
+
+            next(
+                createHttpError(500, {
+                    message: "API function error: Add Remarks"
+                })
+            )
+        }
+    },
+
+    updateFollowupHistroy: async (req, res, next) => {
+        try {
+            const { id } = req.params;
+            const { type, action, scheduledAt, status } = req.body;
+
+            switch (type) {
+                case "add":
+                    await LeadModel.findByIdAndUpdate(id, {
+                        $push: {
+                            followupHistory: {
+                                action,
+                                scheduledAt,
+                                status,
+                            }
+                        }
+                    });
+                    break;
+            }
+
+            res.status(201).json({
+                success: true,
+                message: "Follow Up updated!"
+            })
+        } catch (error) {
+            log.error(`Error Message: ${error.message}\nError Stack: ${error}`);
+
+            next(
+                createHttpError(500, {
+                    message: "API function error: Update Follow up"
                 })
             )
         }
@@ -296,18 +434,14 @@ const LeadController = {
 
                     hrContacts,
 
-                    status: "new",
+                    status: "New",
 
-                    temperature: "cold",
+                    temperature: "Cold",
 
                     score: 0,
 
                     tags: splitToArray(
                         row["Category"]
-                    ),
-
-                    remarks: cleanString(
-                        row["Remarks"]
                     ),
 
                     linkedinUrl: "",
@@ -344,7 +478,6 @@ const LeadController = {
             if (
                 leadsToInsert.length > 0
             ) {
-                console.log("insertmany running...");
 
                 await LeadModel.insertMany(
                     leadsToInsert,

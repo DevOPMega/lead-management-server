@@ -28,18 +28,18 @@ export const Source = [
 ];
 
 export const Status = {
-  new: "new",
-  contacted: "contacted",
-  interested: "interested",
-  quoteSent: "quote Sent",
-  won: "won",
-  lost: "lost",
+  new: "New",
+  contacted: "Contacted",
+  interested: "Interested",
+  quoteSent: "Quote sent",
+  won: "Won",
+  lost: "Lost",
 }
 
 export const Temperature = {
-  cold: "cold",
-  warm: "warm",
-  hot: "hot",
+  cold: "Cold",
+  warm: "Warm",
+  hot: "Hot",
 }
 
 export const Activities = {
@@ -62,6 +62,25 @@ const ActivitiesSchema = new mongoose.Schema({
   timestamps: true,
 });
 
+const RemarkSchema = new mongoose.Schema({
+  type: {
+    type: String,
+    enum: ["Call", "Meeting", "WhatsApp", "Email", "Note"],
+    default: "Call",
+  },
+  remark: String,
+  nextFollowUp: Date,
+});
+
+const FollowupHistorySchema = new mongoose.Schema({
+  action: String,
+  scheduledAt: String,
+  status: {
+    type: String,
+    enum: ["Upcoming", "No Answer", "Responded"],
+    default: "Call",
+  }
+});
 
 const LeadSchema = new mongoose.Schema(
   {
@@ -165,7 +184,8 @@ const LeadSchema = new mongoose.Schema(
     },
 
     // 🔹 Notes / Remarks
-    remarks: String,
+    remarks: [RemarkSchema],
+    followupHistory: [FollowupHistorySchema],
 
     activities: [ActivitiesSchema],
 
